@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91639/Desktop/Mloops/MLOPS-Experements-With_MLFlow/mlruns/663407523721538523/10a6044ad81f4b6480e88e992d36e9cb/artifacts
+end_time: 1750331584055
+entry_point_name: ''
+experiment_id: '663407523721538523'
+lifecycle_stage: active
+run_id: 10a6044ad81f4b6480e88e992d36e9cb
+run_name: industrious-gnat-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331583802
+status: 3
+tags: []
+user_id: '91639'

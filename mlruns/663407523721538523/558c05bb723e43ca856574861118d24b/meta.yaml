@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91639/Desktop/Mloops/MLOPS-Experements-With_MLFlow/mlruns/663407523721538523/558c05bb723e43ca856574861118d24b/artifacts
+end_time: 1750331583775
+entry_point_name: ''
+experiment_id: '663407523721538523'
+lifecycle_stage: active
+run_id: 558c05bb723e43ca856574861118d24b
+run_name: clean-hawk-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331583579
+status: 3
+tags: []
+user_id: '91639'

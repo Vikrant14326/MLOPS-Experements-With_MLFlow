@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91639/Desktop/Mloops/MLOPS-Experements-With_MLFlow/mlruns/663407523721538523/0d4d6bcb10b74b18bdf21e93bb99cce7/artifacts
+end_time: 1750331583008
+entry_point_name: ''
+experiment_id: '663407523721538523'
+lifecycle_stage: active
+run_id: 0d4d6bcb10b74b18bdf21e93bb99cce7
+run_name: gifted-steed-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331582796
+status: 3
+tags: []
+user_id: '91639'

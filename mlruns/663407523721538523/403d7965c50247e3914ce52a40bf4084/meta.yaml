@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/91639/Desktop/Mloops/MLOPS-Experements-With_MLFlow/mlruns/663407523721538523/403d7965c50247e3914ce52a40bf4084/artifacts
+end_time: 1750331582561
+entry_point_name: ''
+experiment_id: '663407523721538523'
+lifecycle_stage: active
+run_id: 403d7965c50247e3914ce52a40bf4084
+run_name: youthful-fawn-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750331582388
+status: 3
+tags: []
+user_id: '91639'
