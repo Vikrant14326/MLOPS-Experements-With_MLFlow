@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/90e90f2dd3da4bf19389030d8ea48215/artifacts
+end_time: 1750325906418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90e90f2dd3da4bf19389030d8ea48215
+run_name: brawny-chimp-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325906119
+status: 3
+tags: []
+user_id: '91639'

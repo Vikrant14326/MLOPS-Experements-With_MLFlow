@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/23098956769748ae8a0ef32c41812157/artifacts
+end_time: 1750326130561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23098956769748ae8a0ef32c41812157
+run_name: dazzling-trout-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750326130306
+status: 3
+tags: []
+user_id: '91639'

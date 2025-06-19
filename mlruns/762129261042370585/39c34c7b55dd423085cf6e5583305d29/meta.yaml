@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/762129261042370585/39c34c7b55dd423085cf6e5583305d29/artifacts
+end_time: 1750327531731
+entry_point_name: ''
+experiment_id: '762129261042370585'
+lifecycle_stage: active
+run_id: 39c34c7b55dd423085cf6e5583305d29
+run_name: exultant-stork-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750327520159
+status: 3
+tags: []
+user_id: '91639'
